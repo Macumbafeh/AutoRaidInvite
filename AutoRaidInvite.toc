@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: Auto Raid Invite
+## Notes: automatically invites people who whisper a magic word
+## Author: Sausagebum<NFA>
+## Version: 0.1
+AutoRaidInvite.lua
